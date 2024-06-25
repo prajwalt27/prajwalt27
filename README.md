@@ -91,7 +91,7 @@
 <a href="https://twitter.com/Prajwal_2025" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>  
-<a href="https://leetcode.com/monk-man" target="_blank">
+<a href="https://leetcode.com/monk_man" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode" style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.geeksforgeeks.org/user/prajwalrt01/" target="_blank">
